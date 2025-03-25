@@ -6,7 +6,7 @@ This is a simple website designed for **college students** to learn about GitHub
 - How to host a website using GitHub Pages
 
 ## 🚀 Live Demo
-Check out the live website: [GitHub Pages Link](https://your-username.github.io/)
+Check out the live website: [GitHub Pages Link](https://ggp-2025.github.io/Github-Guide-/)
 
 ## 📁 Project Structure
 ```
