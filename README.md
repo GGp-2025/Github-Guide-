@@ -1,4 +1,3 @@
-# Github-Guide-
 # GitHub Guide Website 🌐
 
 This is a simple website designed for **college students** to learn about GitHub, including:
